@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\desat\\Documents\\\u041E\u0442\u043A\u043B\u0438\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Mekashron\\MekaSolution\\Mekashron\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2406A9FA-F47A-497F-B102-D6E381E71B44}|Mekashron.csproj|c:\\users\\desat\\documents\\\u043E\u0442\u043A\u043B\u0438\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\mekashron\\mekasolution\\mekashron\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2406A9FA-F47A-497F-B102-D6E381E71B44}|Mekashron.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2406A9FA-F47A-497F-B102-D6E381E71B44}|Mekashron.csproj|c:\\users\\desat\\documents\\\u043E\u0442\u043A\u043B\u0438\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\mekashron\\mekasolution\\mekashron\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2406A9FA-F47A-497F-B102-D6E381E71B44}|Mekashron.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2406A9FA-F47A-497F-B102-D6E381E71B44}|Mekashron.csproj|c:\\users\\desat\\documents\\\u043E\u0442\u043A\u043B\u0438\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\mekashron\\mekasolution\\mekashron\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2406A9FA-F47A-497F-B102-D6E381E71B44}|Mekashron.csproj|solutionrelative:loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2406A9FA-F47A-497F-B102-D6E381E71B44}|Mekashron.csproj|c:\\users\\desat\\documents\\\u043E\u0442\u043A\u043B\u0438\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\mekashron\\mekasolution\\mekashron\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2406A9FA-F47A-497F-B102-D6E381E71B44}|Mekashron.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2406A9FA-F47A-497F-B102-D6E381E71B44}|Mekashron.csproj|c:\\users\\desat\\documents\\\u043E\u0442\u043A\u043B\u0438\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\mekashron\\mekasolution\\mekashron\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2406A9FA-F47A-497F-B102-D6E381E71B44}|Mekashron.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2406A9FA-F47A-497F-B102-D6E381E71B44}|Mekashron.csproj|c:\\users\\desat\\documents\\\u043E\u0442\u043A\u043B\u0438\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\mekashron\\mekasolution\\mekashron\\soapserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2406A9FA-F47A-497F-B102-D6E381E71B44}|Mekashron.csproj|solutionrelative:soapserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2406A9FA-F47A-497F-B102-D6E381E71B44}|Mekashron.csproj|c:\\users\\desat\\documents\\\u043E\u0442\u043A\u043B\u0438\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\mekashron\\mekasolution\\mekashron\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2406A9FA-F47A-497F-B102-D6E381E71B44}|Mekashron.csproj|solutionrelative:clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 382,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\desat\\Documents\\\u041E\u0442\u043A\u043B\u0438\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Mekashron\\MekaSolution\\Mekashron\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\desat\\Documents\\\u041E\u0442\u043A\u043B\u0438\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Mekashron\\MekaSolution\\Mekashron\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-26T20:24:53.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clients.cs",
+              "DocumentMoniker": "C:\\Users\\desat\\Documents\\\u041E\u0442\u043A\u043B\u0438\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Mekashron\\MekaSolution\\Mekashron\\clients.cs",
+              "RelativeDocumentMoniker": "clients.cs",
+              "ToolTip": "C:\\Users\\desat\\Documents\\\u041E\u0442\u043A\u043B\u0438\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Mekashron\\MekaSolution\\Mekashron\\clients.cs",
+              "RelativeToolTip": "clients.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T20:24:36.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\desat\\Documents\\\u041E\u0442\u043A\u043B\u0438\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Mekashron\\MekaSolution\\Mekashron\\LoginModel.cs",
+              "RelativeDocumentMoniker": "LoginModel.cs",
+              "ToolTip": "C:\\Users\\desat\\Documents\\\u041E\u0442\u043A\u043B\u0438\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Mekashron\\MekaSolution\\Mekashron\\LoginModel.cs",
+              "RelativeToolTip": "LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T19:38:51.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\desat\\Documents\\\u041E\u0442\u043A\u043B\u0438\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Mekashron\\MekaSolution\\Mekashron\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\desat\\Documents\\\u041E\u0442\u043A\u043B\u0438\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Mekashron\\MekaSolution\\Mekashron\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T22:05:15.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\desat\\Documents\\\u041E\u0442\u043A\u043B\u0438\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Mekashron\\MekaSolution\\Mekashron\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\desat\\Documents\\\u041E\u0442\u043A\u043B\u0438\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Mekashron\\MekaSolution\\Mekashron\\wwwroot\\index.html*",
+              "RelativeToolTip": "wwwroot\\index.html*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADUAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-29T14:30:06.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\desat\\Documents\\\u041E\u0442\u043A\u043B\u0438\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Mekashron\\MekaSolution\\Mekashron\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\desat\\Documents\\\u041E\u0442\u043A\u043B\u0438\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Mekashron\\MekaSolution\\Mekashron\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T20:19:50.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SoapServiceClient.cs",
+              "DocumentMoniker": "C:\\Users\\desat\\Documents\\\u041E\u0442\u043A\u043B\u0438\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Mekashron\\MekaSolution\\Mekashron\\SoapServiceClient.cs",
+              "RelativeDocumentMoniker": "SoapServiceClient.cs",
+              "ToolTip": "C:\\Users\\desat\\Documents\\\u041E\u0442\u043A\u043B\u0438\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Mekashron\\MekaSolution\\Mekashron\\SoapServiceClient.cs",
+              "RelativeToolTip": "SoapServiceClient.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwHEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T22:25:54.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

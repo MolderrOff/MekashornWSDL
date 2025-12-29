@@ -1,0 +1,2 @@
+wwwroot\index.html
+C:\Users\desat\Documents\Отклики разработчик\Mekashron\MekaSolution\Mekashron\wwwroot\index.html
